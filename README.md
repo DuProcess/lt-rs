@@ -1,0 +1,1 @@
+Fork of [lt-rs](https://github.com/zko-jin/lt-rs) that is currently being maintened(Sept. 2026). Mostly done so we can use lt-rs to build our own torrent engine/media server but we plan on maintaining this project for the sake of the Rust community. No real contribution guidelines yet, may revisit if this ends up being used by more than just us.
